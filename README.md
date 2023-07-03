@@ -4,7 +4,7 @@
 <img align="right" alt="Luffy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/last_countr" target="blank"><img src="https://img.shields.io/twitter/follow/last_countr?logo=twitter&style=for-the-badge" alt="last_countr" /></a> </p>
 
-- 🔭 I’m currently working on **Anime Wallpaper Application**
+- 🔭 I’m currently working on **To Do List That Can Sink With Your Clock**
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
